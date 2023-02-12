@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> I'm Andrea Zaragoza. Welcome to my GitHub!</h1>
 
-**•** 🔭 I’m currently tinkering around with HuskyLens. &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; **•** 🌱 I’m currently learning Python.
+**•** 🚀 I’m currently tinkering around with HuskyLens. &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;**•** 🌱 I’m currently learning Python.
 <br />
 
-**•** 👯 I’m looking to collaborate on open source. &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; **•** 🤔 I’m looking for help with ...
+**•** 👯 I’m looking to contribute to open source. &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;**•** 🤝 I’m open to collaborating on projects.
 <br />
 
-**•** 💬 Ask me about ...&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;  **•** I'm a recent University graduate.
+**•** 📝 I like learning something new everyday.&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;**•** 🎓 I'm a recent University graduate.
 <br />
 
-**•** 😄 Pronouns: ... &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; **•** ⚡ Fun fact: I love illustrating portraits, drawing/painting in general, and sculpting.
+**•** 🌎 I'm based in California, USA. &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;**•** ⚡ Fun fact: I draw/paint, sculpt, and love illustrating portraits.
+<br />
 
 ### Languages and Tools &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Minimally Used Languages and Tools from University Projects
 
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
   <img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="VSCode" width="40px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;
   <img alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
   <img alt="NPM" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="IntelliJ" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
@@ -61,7 +62,7 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats
 
-| <a href="http://www.github.com/AndreaZaragoza"><img src="https://github-readme-stats.vercel.app/api?username=AndreaZaragoza&show_icons=true&hide=&count_private=true&title_color=585858&text_color=989898&icon_color=585858&bg_color=EB545400&hide_border=true&show_icons=true&" alt="AndreaZaragoza's GitHub stats" /></a> | <a href="http://www.github.com/AndreaZaragoza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaZaragoza&stroke=64748B&background=EB545400&ring=585858&fire=585858&currStreakNum=989898&currStreakLabel=585858&sideNums=989898&sideLabels=989898&dates=989898&hide_border=true" /></a> |
+| <a href="http://www.github.com/AndreaZaragoza"><img src="https://github-readme-stats.vercel.app/api?username=AndreaZaragoza&show_icons=true&count_private=true&title_color=585858&text_color=989898&icon_color=585858&bg_color=EB545400&hide_border=true&include_all_commits=true&text_bold=true" alt="AndreaZaragoza's GitHub stats" /></a> | <a href="http://www.github.com/AndreaZaragoza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaZaragoza&stroke=64748B&background=EB545400&ring=585858&fire=585858&currStreakNum=989898&currStreakLabel=585858&sideNums=989898&sideLabels=989898&dates=989898&hide_border=true&text_bold=true" /></a> |
 |----------------------------------------------------------------|------------------------------------------------------------------------|
 
 <br />
