@@ -60,6 +60,8 @@ Here are some ideas to get you started:
   <img alt="MatLab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" />     
 </p>
 
+
+<!--
 ### My GitHub Stats
 
 | <a href="http://www.github.com/AndreaZaragoza"><img src="https://github-readme-stats.vercel.app/api?username=AndreaZaragoza&show_icons=true&count_private=true&title_color=585858&text_color=989898&icon_color=585858&bg_color=EB545400&hide_border=true&include_all_commits=true&text_bold=true" alt="AndreaZaragoza's GitHub stats" /></a> | <a href="http://www.github.com/AndreaZaragoza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaZaragoza&stroke=64748B&background=EB545400&ring=585858&fire=585858&currStreakNum=989898&currStreakLabel=585858&sideNums=989898&sideLabels=989898&dates=989898&hide_border=true&text_bold=true" /></a> |
@@ -73,4 +75,3 @@ Here are some ideas to get you started:
   <a href="https://github.com/AndreaZaragoza" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZaragoza&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=EB545400&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
  </div>
- 
